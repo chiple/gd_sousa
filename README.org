@@ -1,3 +1,3 @@
 #+TITLE: Readme
 
-Godot editor の Android の GUI のボタンが小さくて使いづらいと思ったときに使うといいかもしれません。
+Godot の Android の editor の GUI のボタンが小さくて使いづらいと思ったときに使うといいかもしれません。
