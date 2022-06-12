@@ -1,3 +1,6 @@
 #+TITLE: Readme
 
 Godot の Android の editor の GUI のボタンが小さくて使いづらいと思ったときに使うといいかもしれません。
+
+* TODO node のデータのサーバがどこにあるかわからない。
+しかも、Local でおいてある、test_node は、GodotAPI のリストでしかないので、ノードとして追加できないものがたくさんある。
